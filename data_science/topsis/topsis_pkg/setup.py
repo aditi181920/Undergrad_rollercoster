@@ -5,7 +5,7 @@ import pathlib
 HERE=pathlib.Path(__file__).parent
 
 #The test of the README file
-README = (HERE/"README.md").read_text()
+README = (HERE/"README2.md").read_text()
 
 setup(
   name = 'topsis-aditi-101903527',         # How you named your package folder (MyLib)
