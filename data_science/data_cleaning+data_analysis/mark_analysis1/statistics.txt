@@ -1,0 +1,230 @@
+Statistics of current data:
+----Statistics of P1-------
+Mean: 11.825073
+Median: 14.000000
+Min marks:0
+Max marks:15
+Std deviation:5.778873
+Count of missing values:373
+
+Statistical summary:
+count    343.000000
+mean      11.825073
+std        5.004531
+min        0.000000
+25%       13.000000
+50%       14.000000
+75%       14.000000
+max       15.000000
+Name: P1, dtype: float64
+
+----Statistics of P2-------
+Mean: 11.860534
+Median: 14.000000
+Min marks:0
+Max marks:15
+Std deviation:6.008926
+Count of missing values:373
+
+Statistical summary:
+count    337.000000
+mean      11.860534
+std        5.134050
+min        0.000000
+25%       13.000000
+50%       14.000000
+75%       15.000000
+max       15.000000
+Name: P2, dtype: float64
+
+----Statistics of P3-------
+Mean: 10.879880
+Median: 14.000000
+Min marks:0
+Max marks:15
+Std deviation:6.447119
+Count of missing values:373
+
+Statistical summary:
+count    333.000000
+mean      10.879880
+std        5.817297
+min        0.000000
+25%       13.000000
+50%       14.000000
+75%       14.000000
+max       15.000000
+Name: P3, dtype: float64
+
+----Statistics of P4-------
+Mean: 2.048780
+Median: 0.000000
+Min marks:0
+Max marks:15
+Std deviation:4.995087
+Count of missing values:373
+
+Statistical summary:
+count    369.000000
+mean       2.048780
+std        5.017665
+min        0.000000
+25%        0.000000
+50%        0.000000
+75%        0.000000
+max       15.000000
+Name: P4, dtype: float64
+
+----Statistics of P5-------
+Mean: 1.263736
+Median: 0.000000
+Min marks:0
+Max marks:15
+Std deviation:3.971237
+Count of missing values:373
+
+Statistical summary:
+count    364.000000
+mean       1.263736
+std        4.015357
+min        0.000000
+25%        0.000000
+50%        0.000000
+75%        0.000000
+max       15.000000
+Name: P5, dtype: float64
+
+----Statistics of Tot-------
+Mean: 34.843243
+Median: 40.000000
+Min marks:13
+Max marks:71
+Std deviation:9.822862
+Count of missing values:373
+
+Statistical summary:
+count    370.000000
+mean      34.843243
+std        9.353189
+min       13.000000
+25%       28.000000
+50%       40.000000
+75%       42.000000
+max       71.000000
+Name: Tot, dtype: float64
+
+Statistics of current data:
+----Statistics of P1-------
+Mean: 11.825073
+Median: 14.000000
+Min marks:0
+Max marks:15
+Std deviation:5.778873
+Count of missing values:373
+
+Statistical summary:
+count    343.000000
+mean      11.825073
+std        5.004531
+min        0.000000
+25%       13.000000
+50%       14.000000
+75%       14.000000
+max       15.000000
+Name: P1, dtype: float64
+
+----Statistics of P2-------
+Mean: 11.860534
+Median: 14.000000
+Min marks:0
+Max marks:15
+Std deviation:6.008926
+Count of missing values:373
+
+Statistical summary:
+count    337.000000
+mean      11.860534
+std        5.134050
+min        0.000000
+25%       13.000000
+50%       14.000000
+75%       15.000000
+max       15.000000
+Name: P2, dtype: float64
+
+----Statistics of P3-------
+Mean: 10.879880
+Median: 14.000000
+Min marks:0
+Max marks:15
+Std deviation:6.447119
+Count of missing values:373
+
+Statistical summary:
+count    333.000000
+mean      10.879880
+std        5.817297
+min        0.000000
+25%       13.000000
+50%       14.000000
+75%       14.000000
+max       15.000000
+Name: P3, dtype: float64
+
+----Statistics of P4-------
+Mean: 2.048780
+Median: 0.000000
+Min marks:0
+Max marks:15
+Std deviation:4.995087
+Count of missing values:373
+
+Statistical summary:
+count    369.000000
+mean       2.048780
+std        5.017665
+min        0.000000
+25%        0.000000
+50%        0.000000
+75%        0.000000
+max       15.000000
+Name: P4, dtype: float64
+
+----Statistics of P5-------
+Mean: 1.263736
+Median: 0.000000
+Min marks:0
+Max marks:15
+Std deviation:3.971237
+Count of missing values:373
+
+Statistical summary:
+count    364.000000
+mean       1.263736
+std        4.015357
+min        0.000000
+25%        0.000000
+50%        0.000000
+75%        0.000000
+max       15.000000
+Name: P5, dtype: float64
+
+----Statistics of Tot-------
+Mean: 34.843243
+Median: 40.000000
+Min marks:13
+Max marks:71
+Std deviation:9.822862
+Count of missing values:373
+
+Statistical summary:
+count    370.000000
+mean      34.843243
+std        9.353189
+min       13.000000
+25%       28.000000
+50%       40.000000
+75%       42.000000
+max       71.000000
+Name: Tot, dtype: float64
+
