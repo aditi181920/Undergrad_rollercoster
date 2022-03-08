@@ -1,0 +1,15 @@
+Model,Accuracy wihout Normalization,Accuracy with zscore Normalization,Accuracy with minmax Normalization,Accuracy with maxabs Normalization,Accuracy with robust Normalization
+Quadratic Discriminant Analysis,0.6333,0.6917,0.5917,0.6417,0.5833
+SVM - Linear Kernel,0.5333,0.6917,0.5333,0.575,0.575
+Linear Discriminant Analysis,0.5333,0.6583,0.5333,0.5667,0.5667
+Light Gradient Boosting Machine,0.5333,0.65,0.4917,0.5667,0.5667
+Dummy Classifier,0.5333,0.65,0.4917,0.5667,0.5667
+Extra Trees Classifier,0.5083,0.6333,0.4917,0.525,0.525
+Logistic Regression,0.5,0.625,0.475,0.5,0.4833
+K Neighbors Classifier,0.5,0.625,0.4417,0.4917,0.4583
+Random Forest Classifier,0.3917,0.6,0.4417,0.4833,0.45
+Naive Bayes,0.375,0.5333,0.4333,0.4667,0.45
+Ridge Classifier,0.375,0.5333,0.4333,0.4667,0.425
+Decision Tree Classifier,0.3417,0.5333,0.4,0.4583,0.3667
+Ada Boost Classifier,0.3417,0.525,0.3917,0.45,0.3583
+Gradient Boosting Classifier,0.2333,0.45,0.3917,0.4167,0.3417
