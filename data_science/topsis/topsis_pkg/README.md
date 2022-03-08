@@ -1,16 +1,11 @@
-**PURPOSE:**
+#topsis
+This is for TOPSIS evaluation of a dataset
 
---
+#Installation
+```pip install topsis-aditi-101903527```
 
-This contains main files required for creating topsis package on pypi.org
+#How to use
+Open terminal
+Then in the command prompt type in the format 
+python <program file name(.py file)>  <input data file(.xlsx file)> <string of weight > <string of impacts> <result file name>
 
-1. setup.py
-2. README.md
-3. LICENSE(optional)
-
-After creating these files run below commands on Windows command prompt:
-```sh
-python setup.py sdist
-pip install twine
-twine upload dist/*
-```
