@@ -12,5 +12,5 @@ This folder contains all the dashboards created till date
 --> Go to the same directory containing the dashboard files\
 --> Run the following command
 ```
-  streamlit run 'name_of_prog'
+ python -m streamlit run 'name_of_prog'
 ```
