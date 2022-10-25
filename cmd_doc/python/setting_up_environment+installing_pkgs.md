@@ -32,3 +32,12 @@ conda install <package-name>   #to install some package in your current environm
 conda install <package-1> <package-2> <package-3>
 conda search <package-name>    #search for a package  in current env
 conda remove <package-name>    #to remove some packhge in current env
+```
+
+**ON COMMAND PROMPT:**
+
+```sh
+python -m venv nameofenv
+nameofenv/Scripts/activate
+```
+do this using administrator priviledges
